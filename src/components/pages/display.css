@@ -1,0 +1,28 @@
+.container
+{
+    background-color: rgb(255, 255, 255);
+}
+.main{
+    width:20%;
+    padding-top: 0%;
+    grid-template-columns: auto auto auto auto;
+  justify-content: space-evenly;
+    padding-right: 1%;
+    padding-bottom: 0%;
+    padding-left: 1%;
+    margin-left:3%;
+    margin-right:0%;
+    margin-top:0%;
+    margin-bottom:5%;
+    background-color:#eeff00;
+    border-radius:4%;
+    height:300px;
+   } 
+   .imgs
+   {
+     width:60%;
+     border-radius:20%;
+     margin-top: 5%;
+     margin-bottom:4%;
+     margin-left:20%;
+   }
